@@ -215,7 +215,7 @@ Steps:
 
 1. Open up a browser tab and log in to [*apigee.com/edge*](https://beta.apigee.com/edge)
 
-2. Select Develop > Specs in the side navigation menu.  
+2. Select Develop > API Proxies in the side navigation menu.  
 ![](./media/develop-proxies.png)
 
 3. To create a new API proxy, select the + API Proxy button to add a new proxy.  
